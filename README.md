@@ -9,4 +9,4 @@
 > - The **decode** function uses these extracted numbers to retrieve corresponding words from the message file and constructs a decoded message.
 > - Finally, the **writeToFile** function writes the decoded message to a new text file named "decoded.txt".
 
-### Overall, the code reads an encoded message, decodes it based on the provided numbers, and saves the decoded message to a file.
+#### Overall, the code reads an encoded message, decodes it based on the provided numbers, and saves the decoded message to a file.
